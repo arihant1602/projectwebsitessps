@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(211, 78, 78);
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    line-height: 80px;
+    border-style: solid;
+    padding: 20px;
+    background-color: brown;
+}
