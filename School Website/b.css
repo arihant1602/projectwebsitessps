@@ -1,0 +1,8 @@
+h1{
+    font-size: 50;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: crimson;
+    text-shadow: 0 0 3px black, 0 0 5px black;
+    margin-top: 5px;
+}
