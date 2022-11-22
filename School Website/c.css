@@ -1,13 +1,14 @@
 *{
-    background-color: rgb(211, 78, 78);
+    align-items: center;
 }
 
 a{
-    color: white;
+    color: #282c34;
     text-decoration: none;
     font-size: large;
     line-height: 80px;
     border-style: solid;
     padding: 20px;
-    background-color: brown;
+    background-color: #abb2bf;
+    border-radius: 7px;
 }

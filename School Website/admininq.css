@@ -1,0 +1,47 @@
+*{
+    background-color: #4c566a;
+    text-shadow: 1px 1px black;
+    color: white;
+}
+
+p{
+    color: #2e3440;
+    font-size: 50;
+    font-family: 'Times New Roman';
+    font-weight: 400;
+    border: solid;
+    background-color: #d8dee9;
+}
+
+td{
+    padding: 10px;
+    padding-left: 50px;
+    font-size: 14;
+    background-image: url(bluebg.jpg);
+    border-color: #2e3440;
+}
+
+input{
+    padding: 5px;
+    border-radius: 7px;
+}
+
+textarea{
+    padding: 5px;
+    border-radius: 7px;
+}
+
+button{
+    font-size: 20;
+    padding: 10px;
+    border-radius: 7px;
+    color: white;
+    background-color: #3b4252;
+    text-shadow: none;
+}
+
+table{
+    border-radius: 8px;
+    background-color: #2e3440;
+    color: #3b4252;
+}

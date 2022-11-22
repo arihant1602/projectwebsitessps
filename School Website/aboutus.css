@@ -1,0 +1,22 @@
+*{
+    background-color: #4c566a;
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
+h1{
+    color: #2e3440;
+    font-size: 50;
+    font-family: 'Times New Roman';
+    font-weight: 400;
+    border: solid;
+    background-color: #d8dee9;
+}
+
+p{
+    margin-right: 400px;
+    margin-left: 40px;
+    background-color: #2e3440;
+    padding: 20px;
+    border-radius: 4px;
+}

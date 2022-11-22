@@ -1,13 +1,15 @@
 
-* {
-    /* The image used */
-    background-image: url("SSPSmoradabad.jpg");
-  
-    /* Full height */
+body {
+    background-image: url("SSPSmoradabad.png");
     height: 100%;
-  
-    /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+p{
+  font-size: 30px;
+  color: white;
+  border: solid;
+  font-weight: 300;
+}
