@@ -1,0 +1,17 @@
+html{
+    background-color: #e5e9f0;
+    border-right: 1px solid;
+    padding: 20px;
+}
+
+p{
+    color: rgb(18, 18, 107);
+    font-size: 14;
+}
+
+a{
+    color: black;
+    font-size: 22px;
+    text-decoration: none;
+}
+

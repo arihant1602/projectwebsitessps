@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    margin-top: 5;
+    margin-left: 5;
+    line-height: 20px;
+    background-color: #ac0000;
+}
+
+img{
+    height: 90%;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+hr{
+    margin: 0;
+}

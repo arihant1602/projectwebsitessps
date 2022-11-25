@@ -1,0 +1,23 @@
+p{
+    font-size: 30;
+}
+
+td{
+    border: none;
+}
+
+input{
+    padding: 6px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+table{
+    padding: 30px;
+    border-radius: 8px;
+}
+
+button{
+    padding: 10px;
+    font-weight: 400;
+}

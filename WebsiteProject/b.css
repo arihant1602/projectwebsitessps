@@ -1,0 +1,17 @@
+body{
+    background-color: #ac0000;
+    line-height: 20px;
+    margin: 0;
+}
+p{
+    font-size: 54;
+    font-family: 'monospace';
+    font-weight: 800;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+marquee{
+    text-shadow: 1px 1px black;
+    color: white;
+}

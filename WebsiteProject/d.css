@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    background-color: #eceff4;
+}
+
+img{
+    border: solid black 1px;
+    height: 50%;
+    width: 100%;
+}
+
+p{
+    font-size: 30;
+    text-align: center;
+}
+
+i{
+    text-align: center;
+}
